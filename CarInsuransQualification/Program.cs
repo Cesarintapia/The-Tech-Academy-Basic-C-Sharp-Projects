@@ -27,7 +27,7 @@ namespace CarInsuransQualification
             Console.WriteLine("Qualified: ");    //Write the result of the qualification
             Console.WriteLine(!dui && ticketSpeending && agenPermited); //perform the boolean operator for result
             
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }

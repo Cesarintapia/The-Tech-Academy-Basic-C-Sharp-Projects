@@ -1,0 +1,7 @@
+C:\Users\Cesar\source\repos\Math1\bin\Debug\Math1.exe.config
+C:\Users\Cesar\source\repos\Math1\bin\Debug\Math1.exe
+C:\Users\Cesar\source\repos\Math1\bin\Debug\Math1.pdb
+C:\Users\Cesar\source\repos\Math1\obj\Debug\Math1.csproj.AssemblyReference.cache
+C:\Users\Cesar\source\repos\Math1\obj\Debug\Math1.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Math1\obj\Debug\Math1.exe
+C:\Users\Cesar\source\repos\Math1\obj\Debug\Math1.pdb

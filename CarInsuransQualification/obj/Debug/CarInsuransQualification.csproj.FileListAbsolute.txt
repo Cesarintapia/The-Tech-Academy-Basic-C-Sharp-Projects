@@ -1,0 +1,7 @@
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuransQualification\obj\Debug\CarInsuransQualification.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuransQualification\obj\Debug\CarInsuransQualification.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuransQualification\bin\Debug\CarInsuransQualification.exe.config
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuransQualification\bin\Debug\CarInsuransQualification.exe
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuransQualification\bin\Debug\CarInsuransQualification.pdb
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuransQualification\obj\Debug\CarInsuransQualification.exe
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuransQualification\obj\Debug\CarInsuransQualification.pdb

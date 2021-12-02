@@ -1,0 +1,7 @@
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb

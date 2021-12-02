@@ -5,3 +5,10 @@ C:\Users\Cesar\source\repos\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\BRANCHING 
 C:\Users\Cesar\source\repos\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\BRANCHING SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
 C:\Users\Cesar\source\repos\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\BRANCHING SUBMISSION ASSIGNMENT.exe
 C:\Users\Cesar\source\repos\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\BRANCHING SUBMISSION ASSIGNMENT.pdb
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BRANCHING SUBMISSION ASSIGNMENT\bin\Debug\BRANCHING SUBMISSION ASSIGNMENT.exe.config
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BRANCHING SUBMISSION ASSIGNMENT\bin\Debug\BRANCHING SUBMISSION ASSIGNMENT.exe
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BRANCHING SUBMISSION ASSIGNMENT\bin\Debug\BRANCHING SUBMISSION ASSIGNMENT.pdb
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\BRANCHING SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\BRANCHING SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\BRANCHING SUBMISSION ASSIGNMENT.exe
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BRANCHING SUBMISSION ASSIGNMENT\obj\Debug\BRANCHING SUBMISSION ASSIGNMENT.pdb

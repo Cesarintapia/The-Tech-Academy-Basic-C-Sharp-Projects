@@ -101,25 +101,22 @@ namespace Console_App
             Console.WriteLine("Please, write out the name of one country");                //Ask to find a country
             string country = Console.ReadLine();                                           //Save the user input in country
             bool elcountry = false;                                                        //Create boolean flag 
-            foreach (string theCountry in countryList)                                     //Start the revision of the countryList
+            for (int k = 0; k < countryList.Count; k++)
+            //foreach (string theCountry in countryList)                                     //Start the revision of the countryList
             {
-                if (theCountry == country)
+                if (countryList[k].Contains(country))
                 {
+                    Console.WriteLine(country + ", it's on the list");
+                    Console.WriteLine(k);
                     elcountry = true;                                                      //Defining th boolean flag if the country in find it in countryList
                 }
             }
-            if (elcountry)                                                                 //if the boolean flag is in the countryList, it continue false the uses the step
+            if (elcountry == false)                                                                 //if the boolean flag is in the countryList, it continue false the uses the step
             {
-                Console.WriteLine(country + ", it's on the list");                         //Print the result
-
+                Console.WriteLine(country + ", it isn't on the list");                         //Print the result
             }
-            else                                                                           //if the boolean flag isn't in the countryList, it continue false the uses the step
-            {
-                Console.WriteLine(country + ", isn't on the list");                       //Print the result                        
-            }
-            Console.WriteLine();
-
-            //End section of the Four Assigment "List of strings".
+            
+             //End section of the Four Assigment "List of strings".
 
 
             //Start section of the Five Assigment "List of strings with elements repited".

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Classes_and_Objects
 {
-    class Deck
+    public class Deck
     {
         public Deck()
         {

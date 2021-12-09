@@ -8,6 +8,7 @@ namespace PolimorphismJob
 {
     interface IQuitable                    
     {
-        void Quit();                  //Create the "Quit" method
+        void Quit();                     //Create the "Quit" method
+
     }
 }

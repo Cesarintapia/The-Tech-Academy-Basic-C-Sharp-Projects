@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PolimorphismJob
 {
-    class Person                                                                         //Create a class Person
+    public abstract class Person                                                                         //Create a class Person
     {
         public string FirstName { get; set; }                                           //Set one property call "FirstName"
         public string LastName { get; set; }                                            //Set one property call "LastName".
@@ -17,6 +17,7 @@ namespace PolimorphismJob
         {
             Console.WriteLine("Name: " + FirstName + " " + LastName);                  //Perform the method.
         }
+
 
     }
 }

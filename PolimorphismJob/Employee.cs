@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PolimorphismJob
 {
-    class Employee : Person, IQuitable                     //Set heritages from Person class and IQuitable Interface, to the class Employee 
+    public class Employee : Person, IQuitable                     //Set heritages from Person class and IQuitable Interface, to the class Employee 
     {
 
         public override void SayName()                    //Override the method SayName.
@@ -18,6 +18,8 @@ namespace PolimorphismJob
         {
             Console.WriteLine("quit employee Name: " + this.FirstName + this.LastName);   //Perform the function of the method
         }
+        
+
 
 
     }

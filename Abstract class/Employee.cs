@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Abstract_class
+namespace PolimorphismJob
 {
-    public class Employee : Person                                                      //Inherit from Person Class to Employee class.
+    public class Employee : Person, IQuitable                                                      //Inherit from Person Class to Employee class.
     {
 
         public override void SayName()                                                 //Override the method SayName.
@@ -14,5 +14,13 @@ namespace Abstract_class
             base.SayName();                                                            //Using the method SayName.
             Console.WriteLine("m employee. Name: " + firstName + " " + lastName);      //Creating new print overrring.
         }
+        public void Quit(IQuitable quitable)
+        {
+            throw new NotFiniteNumberException();
+
+            Console.WriteLine("q employee. Name: " + firstName + " " + lastName);
+
+        }
+
     }
 }

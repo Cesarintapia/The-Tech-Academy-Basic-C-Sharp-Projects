@@ -17,5 +17,9 @@ namespace Classes_and_Objects
             Console.WriteLine("21 Players");
             base.ListPlayers();
         }
+        public void WalkAway(Player player)
+        {
+            throw new NotFiniteNumberException();
+        }
     }
 }

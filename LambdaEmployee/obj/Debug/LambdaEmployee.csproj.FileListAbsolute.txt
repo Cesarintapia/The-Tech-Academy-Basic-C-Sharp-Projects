@@ -1,0 +1,7 @@
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\bin\Debug\LambdaEmployee.exe.config
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\bin\Debug\LambdaEmployee.exe
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\bin\Debug\LambdaEmployee.pdb
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\obj\Debug\LambdaEmployee.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\obj\Debug\LambdaEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\obj\Debug\LambdaEmployee.exe
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaEmployee\obj\Debug\LambdaEmployee.pdb

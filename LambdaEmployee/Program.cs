@@ -36,13 +36,16 @@ namespace LambdaEmployee
 
             Console.WriteLine("Using Lambda");
             Console.WriteLine();
+            
             List<Employee> nameList = totalList.Where(x => x.firstName == "Joe").ToList();                //Make List with lambda expresion
             foreach (Employee name in nameList)                                                           //Loop to print
             {
                 Console.WriteLine(name.firstName + " " + name.lastName + " " + name.Id);
             }
             Console.WriteLine();
-            List<Employee> idList = totalList.Where(x => x.firstName == "Joe").ToList();                  //Make List with lambda expresion
+            
+            List<Employee> idList = totalList.Where(x => x.Id > 12350).ToList();                          //Make List with lambda expresion for id > 12350
+            
             foreach (Employee id in idList)                                                               //Loop to print
             {
                 Console.WriteLine(id.firstName + " " + id.lastName + " " + id.Id);

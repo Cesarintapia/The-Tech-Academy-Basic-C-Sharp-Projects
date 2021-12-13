@@ -11,11 +11,11 @@ namespace Classes_and_Objects
         public Deck()
         {
             Cards = new List<Card>();
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonnds", "Spades" };
-            List<string> Faces = new List<string>()
-            {
-                "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
+            //List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonnds", "Spades" };
+            //List<string> Faces = new List<string>()
+            //{
+            //    "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
+            //};
 
             foreach (string face in Faces)
             {

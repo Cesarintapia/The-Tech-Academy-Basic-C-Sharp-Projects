@@ -4,15 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Classes_and_Objects
+namespace BlackJack
 {
     public abstract class Game
     {
         public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
+        public Dictionary<Players, int> Bets { get; set; }
 
         public abstract void Play();
+        
         public virtual void ListPlayers()
         {
             foreach (Player player in Players)

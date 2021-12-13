@@ -19,7 +19,7 @@ namespace Parsing_Enums
             {
                 if (Enum.TryParse(dayUser, true, out days))                               //Compare the "dayUser" with the "Enum Days" and return boolean result
                 {
-
+                    Console.WriteLine($"You entered {days}");
                 }
                 else
                 {

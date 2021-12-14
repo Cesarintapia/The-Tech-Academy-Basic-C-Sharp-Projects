@@ -1,0 +1,7 @@
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentChain\bin\Debug\ConstructorAssignmentChain.exe.config
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentChain\bin\Debug\ConstructorAssignmentChain.exe
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentChain\bin\Debug\ConstructorAssignmentChain.pdb
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentChain\obj\Debug\ConstructorAssignmentChain.csproj.AssemblyReference.cache
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentChain\obj\Debug\ConstructorAssignmentChain.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentChain\obj\Debug\ConstructorAssignmentChain.exe
+C:\Users\Cesar\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentChain\obj\Debug\ConstructorAssignmentChain.pdb
